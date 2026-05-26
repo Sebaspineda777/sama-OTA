@@ -1,1 +1,6 @@
-
+https://raw.githubusercontent.com/Sebaspineda777/sama-OTA/main/version.json
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/Sebaspineda777/sama-OTA/main/firmware/firmware.bin",
+  "md5": ""
+}
